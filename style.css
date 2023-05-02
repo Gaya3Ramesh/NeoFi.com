@@ -205,6 +205,9 @@ label{
     font-size: 15px;
   }
 }
+.inputwrapper2 .inputDataText {
+  cursor: pointer;
+}
 .inputDataText {
   margin-top: 14px;
   margin-bottom: 30px;
@@ -217,7 +220,6 @@ label{
   width: 100%;
   box-sizing: border-box;
   color: #ffffff;
-  cursor: pointer;
   font-size: 18px;
   font-weight: 400;
 }
